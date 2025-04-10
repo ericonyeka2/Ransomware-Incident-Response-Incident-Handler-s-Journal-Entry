@@ -3,7 +3,7 @@
 ## Objective
 As part of a hands-on cybersecurity course, I analyzed a simulated ransomware attack targeting a small U.S. healthcare clinic. The incident involved attackers gaining unauthorized access through a targeted phishing campaign. Employees received malicious emails with attachments that, when downloaded, installed malware on their systems. This allowed attackers to deploy ransomware, encrypting critical medical files and displaying a ransom note demanding payment in exchange for a decryption key.
 
-Using my Incident Handler’s Journal, I documented the entire lifecycle of the incident—from initial detection to recovery steps—while applying standard incident response methodologies. This included identifying indicators of compromise, analyzing the attack vector, recording response actions, and reflecting on key lessons learned. The journal served as a vital part of the learning experience and a tool to simulate real-world incident documentation.
+Using my Incident Handler’s Journal, I documented the entire lifecycle of the incident from initial detection to recovery steps while applying standard incident response methodologies. This included identifying indicators of compromise, analyzing the attack vector, recording response actions, and reflecting on key lessons learned. The journal served as a vital part of the learning experience and a tool to simulate real-world incident documentation.
 
 
 ## Skills Learned  
@@ -47,9 +47,9 @@ The images above show the analysis of the incident using the 5 W's framework.
 The image shows the additional notes I included to address how the organization can improve.
 
 ## Conclusion  
-This incident response activity provided a realistic and valuable experience in handling a ransomware attack on a critical healthcare organization. I developed a deeper understanding of how threat actors use phishing as an entry point and the operational disruptions caused by ransomware. Most importantly, I practiced documenting incidents in a professional, organized manner—an essential skill for any cybersecurity role.
+This incident response activity provided a realistic and valuable experience in handling a ransomware attack on a critical healthcare organization. I developed a deeper understanding of how threat actors use phishing as an entry point and the operational disruptions caused by ransomware. Most importantly, I practiced documenting incidents in a professional, organized manner, an essential skill for any cybersecurity role.
 
-This project demonstrates my ability to think critically during high-pressure scenarios, apply industry-standard frameworks, and effectively communicate technical findings. I’ve included this journal entry in my cybersecurity portfolio to showcase my growth and readiness for roles in incident response and threat analysis.
+This project demonstrates my ability to think critically during high pressure scenarios, apply industry standard frameworks, and effectively communicate technical findings. I’ve included this journal entry in my cybersecurity portfolio to showcase my growth and readiness for roles in incident response and threat analysis.
 
 ### References
 
