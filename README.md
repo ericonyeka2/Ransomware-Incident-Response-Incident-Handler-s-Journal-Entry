@@ -1,4 +1,4 @@
-# Ransomware Incident Response Incident Handlers Journal Entry
+# Ransomware Incident Response Incident Handler's Journal Entry
 
 ## Objective
 As part of a hands-on cybersecurity course, I analyzed a simulated ransomware attack targeting a small U.S. healthcare clinic. The incident involved attackers gaining unauthorized access through a targeted phishing campaign. Employees received malicious emails with attachments that, when downloaded, installed malware on their systems. This allowed attackers to deploy ransomware, encrypting critical medical files and displaying a ransom note demanding payment in exchange for a decryption key.
