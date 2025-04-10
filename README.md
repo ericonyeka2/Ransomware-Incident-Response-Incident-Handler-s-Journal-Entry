@@ -23,26 +23,28 @@ Using my Incident Handler’s Journal, I documented the entire lifecycle of the 
 
 
 ## Steps
-#### The steps feature screenshots of the 
+#### These steps include screenshots from my Incident Handler Journal to illustrate the documented process. 
 
 ### 1. Identify and Log the Incident
 <img width="706" alt="Screenshot 2025-04-10 at 15 47 40" src="https://github.com/user-attachments/assets/459ebc2d-82b2-4f50-bc3f-f2d445b68e18" />
 
-The image above shows the date and journal entry
-
+The image above shows the date and the journal entry.
 
 ### 2. Describe the Incident
 <img width="688" alt="Screenshot 2025-04-10 at 15 52 22" src="https://github.com/user-attachments/assets/55b3cfaf-ba20-4571-a725-6973cbf3198d" />
 
+The image above shows the description of the incident.
 
 ### 3. Analyze the Entry Using the 5 W's Framework
 <img width="687" alt="Screenshot 2025-04-10 at 15 52 58" src="https://github.com/user-attachments/assets/de1bebc7-1ec3-4d27-a0d4-d5b3cf5698f1" />
 <img width="688" alt="Screenshot 2025-04-10 at 15 53 57" src="https://github.com/user-attachments/assets/afe6f65c-614c-4076-865a-87efe3501e88" />
 
+The images above show the analysis of the incident using the 5 W's framework.
 
 ### 4. Additionl Notes
 <img width="685" alt="Screenshot 2025-04-10 at 15 54 41" src="https://github.com/user-attachments/assets/fe457cea-6a67-4e61-babb-4b05f32ddcbe" />
 
+The image shows the additional notes I included to address how the organization can improve.
 
 ## Conclusion  
 This incident response activity provided a realistic and valuable experience in handling a ransomware attack on a critical healthcare organization. I developed a deeper understanding of how threat actors use phishing as an entry point and the operational disruptions caused by ransomware. Most importantly, I practiced documenting incidents in a professional, organized manner—an essential skill for any cybersecurity role.
