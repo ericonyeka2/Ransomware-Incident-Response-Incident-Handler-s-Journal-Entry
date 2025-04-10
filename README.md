@@ -1,0 +1,1 @@
+# Ransomware-Incident-Response-Incident-Handler-s-Journal-Entry
